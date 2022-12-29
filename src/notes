@@ -1,0 +1,10 @@
+firsttime 23:30 second time 06:30 så adderar man 24 h till 06:30
+resultatet blir 23:30-(06:30+24)
+
+Ifall det blir negativt svar:
+        /*
+        double a = 0.0;
+        double b = 23;
+        double sum = a-b;
+        System.out.println("Here = " + (Math.abs(sum)));
+         */
